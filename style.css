@@ -1,0 +1,26 @@
+body {
+    background-color: black;
+}
+ 
+h1 {
+    text-transform:uppercase;
+    font-size: 3em;
+}
+
+.poster {
+    color: white;
+    font-family: "Libre Baskerville", serif;
+    text-align: center;
+    width: 50%;
+    margin:25%;
+    margin-top: 100px;
+}
+
+.harry {
+    width: 100%;
+    border: 5px solid white;
+  }
+
+  footer {
+    color: lightcyan;
+  }
